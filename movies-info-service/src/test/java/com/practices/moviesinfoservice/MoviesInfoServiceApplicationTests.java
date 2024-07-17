@@ -1,4 +1,4 @@
-package com.practices.movies_info_service;
+package com.practices.moviesinfoservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

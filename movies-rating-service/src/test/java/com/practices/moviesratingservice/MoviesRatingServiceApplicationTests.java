@@ -1,4 +1,4 @@
-package com.practices.movies_rating_service;
+package com.practices.moviesratingservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
